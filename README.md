@@ -1,1 +1,3 @@
-# surendran_uptor_final_project
+Name: Surendran.G
+Email Id: sureysn@gmail.com 
+Registrtion Id: 2590
