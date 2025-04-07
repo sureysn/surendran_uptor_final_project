@@ -1,0 +1,28 @@
+Introduction:
+
+This project explores a dataset consists of 15,000 records, each representing an individual's workout session. It contains
+both physiological attributes and exercise-related parameters, making it ideal for calorie burn analysis. Using statistical
+techniques, data visualization, and machine learning, I analyze how factors such as exercise duration, heart rate,
+body temperature, weight, height, and age influence calorie expenditure.
+
+
+The primary columns includes:
+
+Features:
+    1. User_Id      ---  Unique identifier for individuals.
+    2. Gender       ---  Male or Female.
+    3. Age          ---  Age of the individual.
+    4. Height       ---  Height in centimeters.
+    5. Weight       ---  Body weight in kilograms.
+    6. Duration     ---  Duration(minutes) of the exercise session
+    7. Heart_rate   ---  Heart rate(bpm) measured during exercise.
+    8. Body_temp    ---  Body temperature(celsius) during physical activity
+
+Target:
+    Calories        ---  Total calories burned(kcal).
+
+
+Our goal is to explore the data and build a predictive model to estimate the calories burnt. To improve predictive
+performance, I also apply feature engineering, creating new variables by combining existing ones. The goal is to
+develop an accurate calorie prediction model, which helps estimate calorie expenditure based on an individual's
+physiological characteristics and exercise data.
